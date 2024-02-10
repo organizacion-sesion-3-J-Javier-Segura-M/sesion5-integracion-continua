@@ -2,7 +2,7 @@ name: Proyecto Python TDD
 on:
   push:
     branches:
-      - master
+      - master 
   pull_request:
     branches:
       - master
